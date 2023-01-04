@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "*.py",
-      "use": "@sandyjmacdonald/met-office-weather"
+      "use": "@liudonghua123/now-flask"
     }
   ],
   "routes": [
