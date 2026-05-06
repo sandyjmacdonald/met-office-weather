@@ -1,4 +1,4 @@
-# uk-weather
+# Open-Meteo Current UK Weather Data
 
 **Note that this app no longer gets weather data directly from the Met Office, more info. below**
 
