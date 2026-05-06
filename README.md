@@ -1,5 +1,7 @@
 # uk-weather
 
+**Note that this app no longer gets weather data directly from the Met Office, more info. below**
+
 A small Flask app that returns current UK weather as a downloadable TSV.
 Deploys to Vercel as a Python serverless function.
 
