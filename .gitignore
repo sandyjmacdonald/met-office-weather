@@ -5,3 +5,4 @@ __pycache__/
 .venv/
 venv/
 .vercel/
+.DS_Store
